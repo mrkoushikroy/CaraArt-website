@@ -1,0 +1,25 @@
+E-COMMERCE WEBSITE IN PHP 
+
+USER LOGIN:
+
+Username: user
+Password: user
+
+
+>>FOR ADMIN PANEL GO TO (http://localhost/caraart/pages/admin_panel.php)
+
+Username: admin
+Password: letMEin2020
+
+or
+
+Username: papai
+Password: papai
+
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "electricks" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "DATABASE" FOLDER!
